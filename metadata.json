@@ -1,0 +1,6 @@
+{
+  "name": "InternFlow AI",
+  "description": "Smart Internship Management and Performance Evaluation system with AI review, automated scoring, certificate generation, and email automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
